@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.todoform {
+  padding: 5px;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.todos {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.todosbtn {
+  margin-left: 10px;
+}
+
